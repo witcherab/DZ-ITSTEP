@@ -9,7 +9,7 @@ You have to say: it is day or night*
 **Task 2**
 + *Write a program to determine the ideal weight using the formula (height - 100) * 1.15 for men and (height - 110) * 1.15 for women. The program should output the information name ideal weight - value*
 
-Taked from
+Taked from 
 
 [ITSTEP](https://mystat.itstep.org/ua/main/dashboard/page/index)
 
